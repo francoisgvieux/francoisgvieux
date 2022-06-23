@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @francoisgvieux
 - 👀 I’m interested in developing Saas Platforms.
-- 🌱 I’m currently learning TDD in Java.
-- 💞️ I’m looking to collaborate on an open source project.
+- 🌱 I’m currently learning TDD in TypeScript
+- 💞️ I’m looking to collaborate on an open source projects.
 - 📫 How to reach me : francois.g.vieux@gmail.com
 
 <!---
